@@ -10,6 +10,6 @@ pcb的尺子
 目前只开放Gerber文件
 因为＞﹏＜pcb文件在旧电脑上
 
-![image1](https://github.com/tantaizining/pcb_ruler_light/blob/main/images/1.jpg)
+![image1](https://gitee.com/tantaizining/pcb_ruler_light/raw/main/images/1.jpg)
 
-![image2](https://github.com/tantaizining/pcb_ruler_light/raw/main/images/2.jpg)
+![image2](https://gitee.com/tantaizining/pcb_ruler_light/raw/main/images/2.jpg)
