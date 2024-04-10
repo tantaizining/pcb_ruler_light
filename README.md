@@ -15,3 +15,7 @@ pcb的尺子
 ![image1](https://gitee.com/tantaizining/pcb_ruler_light/raw/main/images/1.jpg)
 
 ![image2](https://gitee.com/tantaizining/pcb_ruler_light/raw/main/images/2.jpg)
+
+![image3](https://gitee.com/tantaizining/pcb_ruler_light/raw/main/images/3.jpg)
+
+![image4](https://gitee.com/tantaizining/pcb_ruler_light/raw/main/images/4.jpg)
